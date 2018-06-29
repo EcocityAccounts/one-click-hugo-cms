@@ -2,7 +2,7 @@
 title: "Shock Rhetoric"
 subtitle: Speaking truth close-up to the face of power
 blurb:
-    heading: "<i class=\"fas fa-bullhorn\"></i>"
+    icon-andtext: "bullhorn"
     text: "Some people call me a poet....and that's all right, i've been called much worse. "
 intro:
     heading: "And yet,"

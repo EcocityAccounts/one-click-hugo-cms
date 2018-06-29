@@ -1,6 +1,7 @@
 ---
 title: "Shock Rhetoric"
 subtitle: Speaking truth close-up to the face of power
+image: /img/c4808a63f640f737ceb2d555e7429e11.jpg
 icon-andtext:
     icontext: "bullhorn"
     text: "Some people call me a poet....and that's all right, i've been called much worse. "

@@ -1,10 +1,10 @@
 ---
 title: "Shock Rhetoric"
 subtitle: Speaking truth close-up to the face of power
-blurb:
+icon-andtext:
     icontext: "bullhorn"
     text: "Some people call me a poet....and that's all right, i've been called much worse. "
-intro:
+blurb:
     heading: "And yet,"
     text: "I'm not a poet. I don't do poetry. I do shock rhetoric."
 products:

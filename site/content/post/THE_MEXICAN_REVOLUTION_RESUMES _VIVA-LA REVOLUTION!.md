@@ -1,5 +1,5 @@
 ---
-title: 'THE_MEXICAN_REVOLUTION_RESUMES _VIVA-LA REVOLUTION!'
+title: 'THE MEXICAN REVOLUTION RESUMES - VIVA LA REVOLUTION!'
 date: 2018-07-02T15:13:10.000Z
 description: I have this beautiful, powerful feeling in my chest. I have this beautiful anticipation that the people of the United States will have a similar victory over the dirty, stinking billionaires - the enemies of us all
 ---
